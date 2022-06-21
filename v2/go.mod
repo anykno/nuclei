@@ -12,7 +12,7 @@ require (
 	github.com/bluele/gcache v0.0.2
 	github.com/corpix/uarand v0.2.0
 	github.com/go-playground/validator/v10 v10.11.0
-	github.com/go-rod/rod v0.106.8
+	github.com/go-rod/rod v0.107.1
 	github.com/gobwas/ws v1.1.0
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/itchyny/gojq v0.12.8
@@ -23,7 +23,7 @@ require (
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/miekg/dns v1.1.49
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/owenrumney/go-sarif/v2 v2.1.1
+	github.com/owenrumney/go-sarif/v2 v2.1.2
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/clistats v0.0.8
 	github.com/projectdiscovery/cryptoutil v1.0.0
